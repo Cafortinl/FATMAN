@@ -129,10 +129,10 @@ The current `to do` list is:
 # Sources
 
 Info about the FAT file system found in:
-- [link] (https://wiki.osdev.org/FAT)
-- [link] (https://www.compuphase.com/mbr_fat.htm)
-- [link] (https://codeandlife.com/2012/04/02/simple-fat-and-sd-tutorial-part-1/)
-- [link] (http://www.tavi.co.uk/phobos/fat.html)
+- <https://wiki.osdev.org/FAT>
+- <https://www.compuphase.com/mbr_fat.htm>
+- <https://codeandlife.com/2012/04/02/simple-fat-and-sd-tutorial-part-1/>
+- <http://www.tavi.co.uk/phobos/fat.html>
 
 # Gallery
 ![ls and ls -l commands.](./images/ls1.png)
